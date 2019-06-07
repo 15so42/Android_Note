@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myBarColor">#f4b52e</color>
+    <color name="myBarTextColor">#0e0e0e</color>
+    <color name="colorPrimary">@color/myBarColor</color>
+    <color name="colorPrimaryDark">#f4b52e</color>
+    <color name="colorAccent">@color/myBarTextColor</color>
+
+</resources>
